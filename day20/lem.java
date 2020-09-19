@@ -3,7 +3,6 @@ Lembda Expression
 */
 interface L
 {
-	void df();
 	void scnd(); //public abstract void first();
 }
 class Main

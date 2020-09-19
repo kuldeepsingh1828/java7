@@ -1,0 +1,17 @@
+express helmet cors morgan
+
+in server foldr
+npm i -D eslint nodemon
+npx eslint --init 3,2,3 no,2,1,1,1,y
+
+npm run dev
+
+npm i dotenv
+
+require('dotenv').config();
+
+npx create-react-app client
+
+mapbox.com
+
+feathericons
