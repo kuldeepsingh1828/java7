@@ -1,3 +1,5 @@
+//program for string class
+
 class A
 {
 	public static void main(String[] args) 
