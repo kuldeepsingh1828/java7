@@ -13,11 +13,11 @@ class A
 		Static s1 = new Static();
 		Static s2 = new Static();
 		s1. id = 345; // 345
-		System.out.println(s1.id); //345
+		System.out.println(s1.id); // output at this line : 345
 		s2. id = 345; // 345
-		System.out.println(s2.id); //345
+		System.out.println(s2.id); // output at this line : 345
 		s1.id =  120; //120
 		s2.id =  125; //125
-		System.out.println(Static.id); // 125
+		System.out.println(Static.id); // output at this line : 125
 	}
 }
