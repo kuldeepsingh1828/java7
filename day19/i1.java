@@ -1,10 +1,10 @@
 
 /*
-functional interface
-default method
-static method
-lembda expression
-method refrencing
+	functional interface
+	default method
+	static method
+	lembda expression
+	method refrencing
 */
 
 //AN INTERFACE THAT HAVE ONLY 1 abstract method is known as functional interface.
